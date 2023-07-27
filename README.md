@@ -1,2 +1,1 @@
-# prepcourse-henry
-mi primer repositorio
+est proyecto es una prueba de como clonar un repositorio en github y llevarlo a mi repositorio local
